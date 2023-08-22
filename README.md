@@ -79,6 +79,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nuriddinshahobov/nuriddinshahobov/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nuriddinshahobov2001/nuriddinshahobov2001/blob/main/snake.svg" alt="Snake animation" />
 
 ###
