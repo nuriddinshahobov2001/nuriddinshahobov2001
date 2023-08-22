@@ -1,6 +1,6 @@
-<div align="left">
-  <img height="200" src="https://avatars.githubusercontent.com/u/100368507?v=4"  />
-</div>
+<br clear="both">
+
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/100368507?v=4"  />
 
 ###
 
@@ -76,9 +76,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<img src="https://github.com/nuriddinshahobov2001/nuriddinshahobov2001/blob/main/snake.svg" alt="Snake animation" />
 
 ###
