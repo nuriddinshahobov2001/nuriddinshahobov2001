@@ -1,7 +1,5 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/100368507?v=4"  />
-
 ###
 
 <h1 align="left">Hey 👋 What's up bro?</h1>
